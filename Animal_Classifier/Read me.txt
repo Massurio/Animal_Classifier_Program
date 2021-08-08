@@ -1,0 +1,7 @@
+To predict on test images, open the predict.py file add image path on line 8 and run it in the python console\terminal!
+
+Command: python predict.py 
+
+To retrain the  dataset open train_NN.py file run it.The dataset can be updated or changed for better results.
+
+Command: python train_NN.py 
